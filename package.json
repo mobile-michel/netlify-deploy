@@ -1,0 +1,18 @@
+{
+  "name": "netlify-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [nuejs, github, netlify],
+  "author": "Michel Maillard",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "esbuild": "^0.25.5",
+    "lightningcss": "^1.30.1",
+    "nuekit": "^1.0.0-RC.4",
+    "nuemark": "^0.6.3"
+  }
+}
