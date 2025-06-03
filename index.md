@@ -7,4 +7,4 @@ The first paragraph to check everything is working correctly.
 
 Un nouveau paragraphe...
 
-Modification depuis GitHub!
+Modification depuis [GitHub](https://github.com/)!
